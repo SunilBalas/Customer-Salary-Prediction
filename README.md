@@ -1,1 +1,1 @@
-# Salary Salary Prediction
+# Customer Salary Prediction
